@@ -4,3 +4,6 @@ Models/
 __pycache__/
 .ipynb_checkpoints/
 .streamlit/secrets.toml
+data/*.csv
+data/*.csv
+ALML/
